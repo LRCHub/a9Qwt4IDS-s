@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "偶然シンフォニー",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-04T14:03:31.940955Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "偶然シンフォニー",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_偶然シンフォニー_≠ME.txt"
+    }
+  ]
+}
